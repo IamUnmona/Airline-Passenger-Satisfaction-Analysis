@@ -2,7 +2,7 @@
 Airline Passenger Satisfaction Analysis
 
 
-#1. Motivation
+1. Motivation
 Understanding passenger satisfaction is crucial for the aviation industry. This dataset provides
 valuable insights into what influences customer experiences, the factors such as service
 quality, seat comfort, cleanliness, and in-flight amenities.Satisfied passengers are more likely
@@ -17,7 +17,7 @@ revenues. Airlines that excel in customer satisfaction often lead in market shar
 Understanding areas of high efficiency area investment.
 
 
-#2. Data Overview
+2. Data Overview
 This dataset contains an airline passenger satisfaction survey. What factors are highly
 correlated to a satisfied (or dissatisfied) passenger?
 Kaggle Dataset Link: Airline Passenger Satisfaction
